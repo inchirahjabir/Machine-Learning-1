@@ -1,6 +1,6 @@
 # Machine Learning 1 Labs
 
-This repository contains the Jupyter notebooks for the machine learning labs completed as part of the [Course Name] course.
+This repository contains the Jupyter notebooks for the machine learning labs completed as part of the Machine Learning 1 course.
 
 ## Table of Contents
 
